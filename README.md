@@ -1,2 +1,2 @@
 # Hello-world
-a test
+a test of how to use github.
